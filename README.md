@@ -19,11 +19,8 @@ Welcome to my daily problem-solving journey! This repository serves as a structu
 ## 📂 Repository Structure
 ```yaml
 Daily-Problems/
-│── 2025/
-│   ├── 02/
-│   │   ├── 17_problem.md  # [Date] Problem, Solution & Analysis
-│   │   ├── 18_problem.py  # Code Implementation
-│   │   └── README.md      # Daily Summary
-│── docs/
-│── scripts/
+│── src/
+│   ├── LinkedList/
+│   │   ├── swapPairs.java  
+│── .idea/
 │── README.md
